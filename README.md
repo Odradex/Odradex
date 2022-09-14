@@ -3,8 +3,6 @@
 - 👀 I’m interested in programing, games, music
 - 📫 You can reach me at sivakov.daniil@gmail.com
 
-- I’m currently learning Ruby On Rails, JavaScript, Html, CSS
-
 <br />
 
 ### Languages and Tools:
