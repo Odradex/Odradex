@@ -1,5 +1,5 @@
 
-## 👋  Hi there, I'm Daniel 👋
+## 👋  Hi there, I'm Daniil 👋
 - 👀 I’m interested in programing, games, music
 - 📫 You can reach me at sivakov.daniil@gmail.com
 
